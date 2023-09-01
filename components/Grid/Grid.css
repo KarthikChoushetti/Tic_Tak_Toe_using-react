@@ -1,0 +1,11 @@
+.grid{
+    height:500px ;
+    width:500px ;
+    gap: '1rem';
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.turn-hilight{
+    color:white
+}
